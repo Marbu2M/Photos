@@ -2,7 +2,7 @@
      {
        "id": "1",
        "name": "Ráj v Krušných horách",
-       "image": [ "https://images.unsplash.com/photo-1512273222628-4daea6e55abb?q=80&w=3540&auto=forma  t&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", "url/to/photo2.jpg", "url/to/photo3.jpg", "url/to/photo4.jpg", "url/to/  fotka5.jpg"],
+       "image": [ "https://images.unsplash.com/photo-1512273222628-4daea6e55abb?q=80&w=3540&auto=forma  t&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
        "description": "Utečte do dokonalého útočiště tropického ráje s nedotčenými plážemi, bujnou zelení a luxusním ubytováním.",
        "hodnocení": 4,8,
        "cena": "150",
