@@ -14,7 +14,7 @@
       "rating": 4.8,
       "food":"Chiken, Pork, Beef, Pizza",
       "price": "Hotel, Camp, Mobilhouse",
-      "activity": "Walk, Fitness, bicycle, relax",
+      "duration": "Walk, Fitness, bicycle, relax",
       "location": "Pacific Ocean",
       "category": "Beaches"
     },
@@ -32,7 +32,7 @@
       "description": "Experience the breathtaking beauty of the Alps from your cozy chalet, surrounded by snow-capped peaks and charming villages.",
       "rating": 4.5,
       "price": "120",
-     "activity": "Walk, Fitness, bicycle, relax",
+      "duration": "Walk, Fitness, bicycle, relax",
       "location": "Switzerland",
       "category": "Mountains"
     },
