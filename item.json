@@ -14,7 +14,7 @@
       "rating": 4.8,
       "food":"Chiken, Pork, Beef, Pizza",
       "price": "Hotel, Camp, Mobilhouse",
-      "duration": "Walk, Fitness, bicycle, relax",
+      "activity": "Walk, Fitness, bicycle, relax",
       "location": "Pacific Ocean",
       "category": "Beaches"
     },
